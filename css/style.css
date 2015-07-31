@@ -52,7 +52,9 @@ width: 600px;
    font-size: 29px;
    color: #BDA963;
 }
-
+#list li{
+   padding: 1px;
+}
 #heading {
    font-size: 26px;
    text-align: center;
@@ -74,12 +76,12 @@ h3 {
 }
 
 #review2{
-   background-color: #A9ADCC;
-   color: #181921;
+   background-color: #323445;
+   color: #BDA963;
    font-family: garamond;
    font-size: 18px;
-   margin-left: 30px;
-   margin-right: 30px;
+   margin-left: 100px;
+   margin-right: 100px;
 }
 #tracklist2{
    background-color: #BDA963;
@@ -90,10 +92,10 @@ h3 {
 }
 
 #review3 {
-   background-color: #A9ADCC;
-   color: #181921;
+   background-color: #323445;
+   color: #BDA963;
    font-family: garamond;
    font-size: 18px;
-   margin-left: 30px;
-   margin-right: 30px;
+   margin-left: 100px;
+   margin-right: 100px;
 }
