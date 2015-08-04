@@ -2,7 +2,7 @@ body {
    background-color: #181921
 }
 h1 {
-   background-color: #181921;
+   padding-top: 210px;
    text-align: center;
    font-size: 120px;
    margin: 40px;
@@ -17,85 +17,129 @@ h1 {
    color: white;
 }
 
-#quote{
-   background-color: #323445;
-   border-color:
-   margin-top: 75px;
-   margin-bottom:75px;
+#quote1 {
+
+   margin-top: 260px;
+   margin-bottom: 45px;
    margin-right: 100px;
    margin-left:100px;
+   text-align: justify;
    text-align: center;
-   font-size: 30px;
-   font-family: 'Garamond';
-   color: white;
+   font-size: 35px;
+   font-family: 'helvetica neue';
+   color: #e6cd78;
+   font-weight: lighter;
+   letter-spacing: 1px;
    }
 
-h2 {
-   background-color: #323445;
-   margin-right: 100px;
-   margin-left: 100px;
-}
-
-#pic {
-   background-color: #323445;
-   height: 357px;
-}
 
 img {
-width: 600px;
+width: 400px;
  float: left;
- margin-right: 12px;
+margin-left: 15%;
+padding-right: 50px;
+padding-left:100px;
 }
 
-#list1 {
-   font-family: garamond;
-   font-size: 29px;
-   color: #BDA963;
+#list {
+margin-top: -5px;
+margin-bottom: 20px;
+ font-family: 'helvetica neue';
+ font-weight: lighter;
+   font-size: 27px;
+   color: white;
 }
-#list li{
-   padding: 1px;
+
+#one {
+   font-style: none;
+   font-size: 45px;
 }
+
+#two {
+   font-size: 45px;
+
+}
+
+#three{
+   font-size: 45px;
+}
+
+#four{
+   font-size: 45px;
+}
+
+#five{
+   font-size: 45px;
+}
+
 #heading {
-   font-size: 26px;
+   color: white;
+   font-size: 40px;
    text-align: center;
-   color: #BDA963;
+
 }
 
 h3 {
-   background-color: #323445;
+   padding: 30px;
    height: 28px;
+   font-family: 'helvetica neue';
+   font-weight: lighter;
+   font-size: 50px;
 }
 
 #firstreview{
-   background-color: #BDA963;
-   color: #181921;
-   font-family: garamond;
-   font-size: 18px;
-   margin-right: 100px;
-   margin-left: 100px;
-}
 
+   text-indent: 50px;
+   color: #e6cd78;
+   font-family: 'garamond';
+   font-weight: lighter;
+   font-size: 20px;
+   margin-right: 140px;
+   margin-left: 140px;
+   line-height: 120%;
+}
+#allmusic{
+   color: white;
+   font-weight: bold;
+   font-size: 25px;
+   margin-left: 80%;
+}
 #review2{
-   background-color: #323445;
-   color: #BDA963;
-   font-family: garamond;
-   font-size: 18px;
-   margin-left: 100px;
-   margin-right: 100px;
+     text-indent: 50px;
+   color: #e6cd78;
+   font-family: 'garamond';
+   font-weight: lighter;
+   font-size: 20px;
+   margin-right: 140px;
+   margin-left: 140px;
+   line-height: 120%;
 }
 #tracklist2{
-   background-color: #BDA963;
-   color: #181921;
-   margin-left: 100px;
-   margin-right: 100px;
-   text-indent: 400px;
+   color: white;
+   font-family: 'helvetica neue';
+   font-weight: lighter;
+   text-align: center;
+   margin-left: 120px;
+   margin-right: 120px;
 }
 
 #review3 {
-   background-color: #323445;
-   color: #BDA963;
-   font-family: garamond;
-   font-size: 18px;
-   margin-left: 100px;
-   margin-right: 100px;
+   text-indent: 50px;
+   color: #e6cd78;
+   font-family: 'garamond';
+   font-weight: lighter;
+   font-size: 20px;
+   margin-right: 140px;
+   margin-left: 140px;
+   line-height: 120%;
+}
+
+#ecm {
+   color: white;
+   font-family: 'garamond';
+   font-weight: bold;
+   font-size: 25px;
+   margin-left: 80%;
+   line-height: 120%;
+
 }
