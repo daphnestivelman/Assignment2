@@ -95,13 +95,14 @@ h3 {
    font-family: 'garamond';
    font-weight: lighter;
    font-size: 20px;
-   margin-right: 140px;
-   margin-left: 140px;
+   margin-right: 190px;
+   margin-left: 190px;
    line-height: 120%;
 }
 #allmusic{
    color: white;
-   font-weight: bold;
+   font-family: 'helvetica neue';
+   font-weight: lighter;
    font-size: 25px;
    margin-left: 80%;
 }
@@ -111,8 +112,8 @@ h3 {
    font-family: 'garamond';
    font-weight: lighter;
    font-size: 20px;
-   margin-right: 140px;
-   margin-left: 140px;
+   margin-right: 190px;
+   margin-left: 190px;
    line-height: 120%;
 }
 #tracklist2{
@@ -130,15 +131,15 @@ h3 {
    font-family: 'garamond';
    font-weight: lighter;
    font-size: 20px;
-   margin-right: 140px;
-   margin-left: 140px;
+   margin-right: 190px;
+   margin-left: 190px;
    line-height: 120%;
 }
 
 #ecm {
    color: white;
-   font-family: 'garamond';
-   font-weight: bold;
+   font-family: 'Helvetica neue';
+   font-weight: lighter;
    font-size: 25px;
    margin-left: 80%;
    line-height: 120%;
